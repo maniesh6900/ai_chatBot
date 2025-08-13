@@ -69,7 +69,7 @@ export function ChatMessageListDemo() {
         },
       ]);
       setIsLoading(false);
-    }, 10000);
+    }, 3000);
   };
 
   const handleAttachFile = () => {
